@@ -29,7 +29,7 @@ I'm a fullstack web developer. I love learning new things, whether its a new tec
 - 🚀 &nbsp; I’m currently learning Data Visualization in D3.js and 3d.js.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/tbuchannan).
 - 📫 &nbsp; How to reach me: tj.buchannan@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](resume_2023).
+- 📝 &nbsp; Checkout my [Resume](https://tjbuchannan.com/assets/Resume_2023.pdf).
 
 
 
