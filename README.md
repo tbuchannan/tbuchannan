@@ -33,7 +33,7 @@ I'm a fullstack web developer. I love learning new things, whether its a new tec
 
 
 
-
+<!--
 <div>
     <br/>
     <br/>
@@ -54,4 +54,4 @@ I'm a fullstack web developer. I love learning new things, whether its a new tec
         </a>
     </div>
 </div>
-
+-->
